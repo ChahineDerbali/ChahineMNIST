@@ -19,35 +19,17 @@ I customized the project by training my own dataset and integrating it into the 
 ## 🛠 Built With
 
 - Android Studio
-- Java *(or Kotlin — specify which one you used)*
+- Java
 - TensorFlow Lite
 - Google Teachable Machine
-- CameraX API *(if used)*
-
-## 📂 Project Structure
-
-```
-ChahineMNIST/
-│
-├── app/
-│   ├── src/
-│   ├── tflite_model.tflite  <-- Your trained model
-│   └── ...
-├── .gitignore
-├── README.md
-└── ...
-```
 
 ## 🚀 Getting Started
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/ChahineMNIST.git
+   git clone https://github.com/ChahineDerbali/ChahineMNIST
    ```
 2. Open with Android Studio
 3. Connect your Android device or use an emulator
 4. Run the app and test by taking a photo of handwritten digits (0–9)
 
----
-
-Made with ❤️ by [Chahine Derbali](https://github.com/your-username)
